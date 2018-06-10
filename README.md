@@ -1,10 +1,9 @@
 # Go - REST API Boilerplate
 
 ## Getting started
-1. Install go from
-`https://golang.org/doc/install`
+1. Install go from [https://golang.org/doc/install](https://golang.org/doc/install)
 
-2. Set env variables `https://github.com/golang/go/wiki/SettingGOPATH`
+2. Set env variables [https://github.com/golang/go/wiki/SettingGOPATH](https://github.com/golang/go/wiki/SettingGOPATH)
 
 3. Clone repository to your workspace
 
@@ -28,6 +27,6 @@ go build
 
 ## Check code in action
 
-* `http://localhost:8080` // Home page
-* `http://localhost:8080/todos` // GET todos
-* `http://localhost:8080/todos/1` // Get info#
+* [http://localhost:8080](http://localhost:8080) // Home page
+* [http://localhost:8080/todos](http://localhost:8080/todos) // GET todos
+* [http://localhost:8080/todos/1](http://localhost:8080/todos/1) // Get info#
